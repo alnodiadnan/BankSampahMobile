@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "amount": 2.45,
+        "buyer": "PT Pembeli",
+        "earning": 300000,
+        "waste": {
+            "id": 2,
+            "name": "Kertas",
+            "category": "Organik",
+            "totalSavingAmount": 0,
+            "published_at": "2021-06-10T03:20:59.867Z",
+            "created_at": "2021-06-10T03:20:58.004Z",
+            "updated_at": "2021-06-17T08:43:57.456Z"
+        },
+        "published_at": "2021-06-20T10:09:41.653Z",
+        "created_at": "2021-06-20T10:07:47.906Z",
+        "updated_at": "2021-06-20T10:09:41.664Z"
+    },
+    {
+        "id": 2,
+        "amount": 10.45,
+        "buyer": "PT Pembeli 2",
+        "earning": 505000,
+        "waste": {
+            "id": 2,
+            "name": "Kertas",
+            "category": "Organik",
+            "totalSavingAmount": 0,
+            "published_at": "2021-06-10T03:20:59.867Z",
+            "created_at": "2021-06-10T03:20:58.004Z",
+            "updated_at": "2021-06-17T08:43:57.456Z"
+        },
+        "published_at": "2021-06-20T10:16:19.983Z",
+        "created_at": "2021-06-20T10:16:16.524Z",
+        "updated_at": "2021-06-20T10:16:19.997Z"
+    }
+]

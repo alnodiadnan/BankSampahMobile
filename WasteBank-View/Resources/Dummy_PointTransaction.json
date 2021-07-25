@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Game Point",
+        "amount": 30,
+        "users_permissions_user": {
+            "id": 9,
+            "username": "alnodifadhilah",
+            "email": "alnodi08@email.com",
+            "provider": "local",
+            "confirmed": false,
+            "blocked": null,
+            "role": 1,
+            "created_at": "2021-06-02T03:17:08.921Z",
+            "updated_at": "2021-07-14T08:21:40.341Z",
+            "address": "Niaga Hijau ",
+            "gender": "Laki-laki",
+            "fullname": "Alnodi Adnan Fadhilah",
+            "type": "Member",
+            "birthDate": "8 Juli 1999",
+            "point": 70
+        },
+        "published_at": "2021-07-14T07:35:37.805Z",
+        "created_at": "2021-07-14T07:35:35.230Z",
+        "updated_at": "2021-07-14T07:35:37.817Z"
+    },
+    {
+        "id": 2,
+        "name": "Game Point",
+        "amount": 20,
+        "users_permissions_user": {
+            "id": 9,
+            "username": "alnodifadhilah",
+            "email": "alnodi08@email.com",
+            "provider": "local",
+            "confirmed": false,
+            "blocked": null,
+            "role": 1,
+            "created_at": "2021-06-02T03:17:08.921Z",
+            "updated_at": "2021-07-14T08:21:40.341Z",
+            "address": "Niaga Hijau ",
+            "gender": "Laki-laki",
+            "fullname": "Alnodi Adnan Fadhilah",
+            "type": "Member",
+            "birthDate": "8 Juli 1999",
+            "point": 70
+        },
+        "published_at": "2021-07-14T08:21:40.376Z",
+        "created_at": "2021-07-14T08:21:40.380Z",
+        "updated_at": "2021-07-14T08:21:40.387Z"
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "id": 11,
+        "username": "alziro",
+        "email": "alziro@email.com",
+        "provider": "local",
+        "confirmed": false,
+        "blocked": null,
+        "role": {
+            "id": 1,
+            "name": "Authenticated",
+            "description": "Default role given to authenticated user.",
+            "type": "authenticated"
+        },
+        "created_at": "2021-06-06T11:54:36.513Z",
+        "updated_at": "2021-06-06T11:54:36.519Z",
+        "address": "Pondok Indah",
+        "gender": "Laki-laki",
+        "fullname": "Alziro Adnan",
+        "type": "Member",
+        "savings": [
+            {
+                "id": 48,
+                "type": "Plastik",
+                "published_at": "2021-06-21T04:25:09.583Z",
+                "created_at": "2021-06-21T04:25:09.585Z",
+                "updated_at": "2021-06-23T10:32:17.263Z",
+                "amount": 0,
+                "users_permissions_user": 11,
+                "waste": 3,
+                "earning": 355000
+            },
+            {
+                "id": 50,
+                "type": "Besi",
+                "published_at": "2021-06-22T12:00:58.806Z",
+                "created_at": "2021-06-22T12:00:58.808Z",
+                "updated_at": "2021-06-22T12:01:36.237Z",
+                "amount": 0,
+                "users_permissions_user": 11,
+                "waste": 1,
+                "earning": 15000
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "username": "ricky001",
+        "email": "ricky@email.com",
+        "provider": "local",
+        "confirmed": false,
+        "blocked": null,
+        "role": {
+            "id": 1,
+            "name": "Authenticated",
+            "description": "Default role given to authenticated user.",
+            "type": "authenticated"
+        },
+        "created_at": "2021-06-25T08:08:48.714Z",
+        "updated_at": "2021-06-25T08:08:48.724Z",
+        "address": "Korpri",
+        "gender": "Laki-laki",
+        "fullname": "Ricky Kurniawan",
+        "type": "Member",
+        "savings": []
+    },
+    {
+        "id": 13,
+        "username": "farisrobzki",
+        "email": "farisrobzki@email.com",
+        "provider": "local",
+        "confirmed": false,
+        "blocked": null,
+        "role": {
+            "id": 1,
+            "name": "Authenticated",
+            "description": "Default role given to authenticated user.",
+            "type": "authenticated"
+        },
+        "created_at": "2021-06-17T08:53:12.128Z",
+        "updated_at": "2021-06-17T10:17:22.245Z",
+        "address": "Discovery Bintaro",
+        "gender": "Laki-laki",
+        "fullname": "Faris Robzki Marbun",
+        "type": "Member",
+        "savings": [
+            {
+                "id": 52,
+                "type": "Besi",
+                "published_at": "2021-06-23T14:32:48.917Z",
+                "created_at": "2021-06-23T14:32:48.927Z",
+                "updated_at": "2021-06-23T14:33:31.625Z",
+                "amount": 0,
+                "users_permissions_user": 13,
+                "waste": 1,
+                "earning": 53333.33333333333
+            },
+            {
+                "id": 53,
+                "type": "Plastik",
+                "published_at": "2021-06-23T14:32:48.922Z",
+                "created_at": "2021-06-23T14:32:48.928Z",
+                "updated_at": "2021-06-23T14:32:48.944Z",
+                "amount": 2.5,
+                "users_permissions_user": 13,
+                "waste": 3,
+                "earning": 0
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "username": "admin",
+        "email": "admin@email.com",
+        "provider": "local",
+        "confirmed": false,
+        "blocked": null,
+        "role": {
+            "id": 1,
+            "name": "Authenticated",
+            "description": "Default role given to authenticated user.",
+            "type": "authenticated"
+        },
+        "created_at": "2021-06-06T12:01:06.385Z",
+        "updated_at": "2021-06-22T14:20:45.490Z",
+        "address": "Pangkal Pinang",
+        "gender": "Laki-laki",
+        "fullname": "Admin Bank Sampah",
+        "type": "Admin",
+        "savings": []
+    },
+    {
+        "id": 9,
+        "username": "alnodifadhilah",
+        "email": "alnodi08@email.com",
+        "provider": "local",
+        "confirmed": false,
+        "blocked": null,
+        "role": {
+            "id": 1,
+            "name": "Authenticated",
+            "description": "Default role given to authenticated user.",
+            "type": "authenticated"
+        },
+        "created_at": "2021-06-02T03:17:08.921Z",
+        "updated_at": "2021-06-23T14:27:12.482Z",
+        "address": "Niaga Hijau ",
+        "gender": "Laki-laki",
+        "fullname": "Alnodi Adnan Fadhilah",
+        "type": "Member",
+        "savings": [
+            {
+                "id": 47,
+                "type": "Plastik",
+                "published_at": "2021-06-21T04:21:29.682Z",
+                "created_at": "2021-06-21T04:21:29.685Z",
+                "updated_at": "2021-06-21T04:42:04.457Z",
+                "amount": 0,
+                "users_permissions_user": 9,
+                "waste": 3,
+                "earning": 60000
+            },
+            {
+                "id": 49,
+                "type": "Besi",
+                "published_at": "2021-06-22T12:00:33.437Z",
+                "created_at": "2021-06-22T12:00:33.439Z",
+                "updated_at": "2021-06-23T14:33:31.601Z",
+                "amount": 0,
+                "users_permissions_user": 9,
+                "waste": 1,
+                "earning": 71666.66666666666
+            }
+        ]
+    }
+]
